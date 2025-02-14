@@ -1,7 +1,7 @@
 # Favorite Hanging Spot Map 🌍  
 
 ## Project Idea 💡  
-An open-source web application where users can mark and share details about their favorite **hanging spots** on an interactive **platform*. Users can add, view, and search locations with real-time updates, geospatial features, and authentication.  
+An open-source web application where users can mark and share details about their favorite **hanging spots** on an interactive *platform*. Users can add, view, and search locations with real-time updates, geospatial features, and authentication.  
 
 ## Tech Stack 🚀  
 
